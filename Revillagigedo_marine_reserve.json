@@ -1,0 +1,28 @@
+{
+	"totalFeatures": 1, 
+	"type": "FeatureCollection", 
+	"features": 
+	[
+		{
+			"geometry": 
+			{
+				"type": "Polygon", 
+				"coordinates":
+				[
+					[
+						[-115.471415, 20.008631],
+						[-110.078093, 20.008631],
+						[-110.078093, 17.655231],
+						[-115.471415, 17.655231],
+						[-115.471415, 20.008631]
+					]
+				]
+			}, 
+			"properties":
+			{
+				"geoname": "Revillagigedo Marine Reserve"
+			},
+			"type": "Feature"
+		}
+	]
+}
